@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WBMcLean
-- 👀 I’m interested in engineering and technology
+- 👋 Hi, I’m @williambmclean
+- 👀 I’m a mechanical engineer trying to survive in a software world
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on solving interesting real world problems related to finance, cars or tech
-- 📫 How to reach me @wbmclean on twitter or at my website williambmclean.com
+- 💞️ I’m looking to collaborate on solving interesting real world problems related to personal knowledge mangement and productivity systems.
+- 📫 Reach me @williambmclean on twitter or at my website williambmclean.com
 
 <!---
 WBMcLean/WBMcLean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
